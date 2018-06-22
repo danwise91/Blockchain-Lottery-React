@@ -1,6 +1,6 @@
 import web3 from './web3';
 
-const address = "0x784723ADCA575aD62B83271Ed868257BeE9938A1";
+const address = "0x371F9d0409cBbEE48e365f6fE0A81e578EaEeDB5";
 const abi = [{"constant":true,
 inputs:[],
 name:"manager",
